@@ -10,7 +10,7 @@
 </div>
 <hr>
 <div>
-   <a href="tryhackme.com/p/s4int">
+   <a href="https://tryhackme.com/p/s4int">
      <img src="https://tryhackme-badges.s3.amazonaws.com/s4int.png" alt="TryHackMe">
    </a>
    <a href="https://app.hackthebox.com/profile/1710785">
