@@ -10,7 +10,9 @@
 </div>
 <hr>
 <div>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/s4int.png" alt="TryHackMe">
+   <a href="tryhackme.com/p/s4int">
+     <img src="https://tryhackme-badges.s3.amazonaws.com/s4int.png" alt="TryHackMe">
+   </a>
    <a href="https://app.hackthebox.com/profile/1710785">
      <img width="230px" src="https://github.com/541n77/541n77/blob/main/photos/hackthebox_status.png?raw=true">
    </a>
